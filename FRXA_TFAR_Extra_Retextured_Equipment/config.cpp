@@ -15,7 +15,7 @@ class CfgPatches // Addon Dependants
 		weapons[] = {};
 		requiredVersion = 0.1;
 		requiredAddons[] = {"task_force_radio_items"};
-		authors[] = {"freexavier", "dedmen"}
+		authors[] = {"freexavier", "dedmen"};
 	};
 };
 
